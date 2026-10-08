@@ -1,0 +1,17 @@
+PYTHON NETWORK SCANNER RESULTS
+==================================================
+
+Port: 8080
+Status: OPEN
+Service: HTTP
+Banner: HTTP/1.0 200 OK  Server: SimpleHTTP/0.6 Python/3.14.6  Date: Thu, 08 Oct 2026 12:23:12 GMT  Content-type: text/html; charset=utf-8  Content-Length: 1985
+--------------------------------------------------
+
+SCAN SUMMARY
+==================================================
+Ports scanned: 8012
+Open: 1
+Closed: 8011
+Timeouts: 0
+Errors: 0
+Time taken: 1.8246 seconds
